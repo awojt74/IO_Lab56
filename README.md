@@ -1,1 +1,2 @@
 # IO_Lab56
+(DODANE ZMIANY)
